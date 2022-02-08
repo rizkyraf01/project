@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LayarKaca21</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">title</string>
+    <string name="rate">8.0</string>
+    <string name="director">director</string>
+    <string name="title_tv">Tv Show</string>
+    <string name="title_film">Film titile</string>
+    <string name="title_dashboard">Tv Show</string>
+    <string name="title_home">Film home</string>
+    <string name="Deskripsi">Deskripsi</string>
+    <string name="fill_overview">Contoh</string>
+    <string name="lk">LayarKaca21</string>
+    <string name="year">year</string>
+    <string name="message_undo">Undo delete?</string>
+    <string name="message_ok">Ok</string>
+    <string name="other_movies">Other Movies</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">TV</string>
+    <string name="title_notifications">Favorite</string>
+    <string name="year_release">year</string>
+</resources>
