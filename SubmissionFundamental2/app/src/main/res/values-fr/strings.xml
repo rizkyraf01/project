@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <string name="app_name">GitHub</string>
+    <string name="username">Nom dutilisateur</string>
+    <string name="Name">Nom</string>
+    <string name="location">Emplacement : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Compagnie : %s </string>
+    <string name="followers">Suiveurs</string>
+    <string name="following">Suivre</string>
+    <string name="change_language_settings">Modifier les paramètres de langue</string>
+</resources>

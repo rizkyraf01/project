@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ConsumerSubmisionFundamental3</string>
+    <string name="title">Consumer GitHub User</string>
+    <string name="search">Search</string>
+    <string name="fathullah_auzan">Fathullah Auzan</string>
+    <string name="andanfathullah">andanfathullah</string>
+    <string name="bangkit_academy_student">Bangkit Academy Student</string>
+    <string name="submission_fundamental_3">Consumer App</string>
+    <string name="name">Name</string>
+    <string name="username">UserName</string>
+    <string name="company">company</string>
+    <string name="location">location</string>
+    <string name="followingcount">-</string>
+    <string name="following">following</string>
+    <string name="followercount">-</string>
+    <string name="follower">followers</string>
+    <string name="repocount">-</string>
+    <string name="repositories">repositories</string>
+    <string name="setting">setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_image">User Image</string>
+    <string name="delete_favorite">"Deleted from Favorite"</string>
+    <string name="add_favorite">"Added Favorite"</string>
+    <string name="fav_user">"Favorite User"</string>
+    <string name="no_data">"There is Nothing"</string>
+    <string name="reminder_notification">Reminder Notification</string>
+    <string name="change_language">Change Language</string>
+    <string name="dailyNotify">Take a look at your Favorite GitHub User Now!</string>
+    <string name="notifyOn">Daily Notification Is ON</string>
+    <string name="notifyOff">Daily Notification Is OFF</string>
+    <string name="notifyTitle">HELLO GUYS</string>
+</resources>

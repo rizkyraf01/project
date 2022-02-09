@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="abu">#E5E5E5</color>
+    <color name="abu_gelap">#B2B2B2</color>
+    <color name="abu_gelap2">#494949</color>
+    <color name="abu_gelap3">#232323</color>
+    <color name="black_nom">#0D0D0D</color>
+    <color name="black">#FF000000</color>
+</resources>

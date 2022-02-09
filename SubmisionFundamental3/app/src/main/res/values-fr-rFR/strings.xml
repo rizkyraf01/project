@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmisionFundamental3</string>
+    <string name="title">Utilisateur GitHub</string>
+    <string name="search">Rechercher</string>
+    <string name="fathullah_auzan">Fathullah Auzan</string>
+    <string name="andanfathullah">andanfathullah</string>
+    <string name="bangkit_academy_student">Bangkit Academy Étudiant</string>
+    <string name="submission_fundamental_3">Submission Fundamental 3</string>
+    <string name="name">Nom</string>
+    <string name="username">Nom Dutilisateur</string>
+    <string name="company">Compagnie</string>
+    <string name="location">Emplacement</string>
+    <string name="followingcount">-</string>
+    <string name="following">suivant</string>
+    <string name="followercount">-</string>
+    <string name="follower">Adhérents</string>
+    <string name="repocount">-</string>
+    <string name="repositories">Dépôt</string>
+    <string name="setting">Paramètres</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_image">Image utilisateur</string>
+    <string name="delete_favorite">Supprimé de Favorite</string>
+    <string name="add_favorite">Ajouté au favori</string>
+    <string name="fav_user">Utilisateur préféré</string>
+    <string name="no_data">Il n’y a rien</string>
+    <string name="reminder_notification">Notification de rappel</string>
+    <string name="change_language">Changer la langue</string>
+    <string name="dailyNotify">Recherchez l’utilisateur GitHub maintenant!</string>
+    <string name="notifyOn">La notification quotidienne est en cours</string>
+    <string name="notifyOff">La notification quotidienne est éteinte</string>
+    <string name="notifyTitle">HELLO GUYS</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>

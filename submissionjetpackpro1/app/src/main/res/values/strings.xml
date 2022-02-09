@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layar Berkaca</string>
+    <string name="title_activity_detail_list">Detail List</string>
+    <string name="title">Judul</string>
+    <string name="director">Director</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="description">desc</string>
+    <string name="deadline_date">director  %s</string>
+</resources>
