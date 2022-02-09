@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient android:startColor="@color/cardview_shadow_end_color"
+                android:endColor="@color/darker"
+                android:angle="@android:integer/config_longAnimTime"
+                android:type="linear"
+                android:centerColor="@color/cardview_shadow_end_color" />
+            <size
+                android:height="600dp"
+                android:width="1000dp"/>
+        </shape>
+    </item>
+</layer-list>

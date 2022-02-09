@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Entertaint.Co</string>
+    <string name="title_home">Movies</string>
+    <string name="title_dashboard">TV Shows</string>
+    <string name="title_notifications">Favorites</string>
+    <string name="trending_movies">Trending Movies</string>
+    <string name="movies">Movies</string>
+    <string name="film_title">Film Title</string>
+    <string name="rate">7,5</string>
+    <string name="popular_series">Popular Series</string>
+    <string name="tv_shows">TV</string>
+    <string name="favorite_films">Favorite Films</string>
+    <string name="age">R</string>
+    <string name="year_release">2019</string>
+    <string name="genre">Action, Adventure, Fantasy, Science Fiction</string>
+    <string name="duration">1h 20min</string>
+    <string name="overview">Overview</string>
+    <string name="fill_overview">Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsungs best warrior, Sub-Zero, seeks out and trains with Earths greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="story_maker">Story Maker</string>
+    <string name="director">director</string>
+    <string name="sreenplay">sreenplay</string>
+    <string name="story">Story</string>
+    <string name="writer">Writer</string>
+    <string name="creator">Creator</string>
+    <string name="season">Season</string>
+    <string name="develop">Fitur dalam Pengembangan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message_undo">Undo delete?</string>
+    <string name="message_ok">Ok</string>
+    <string name="other_movies">Other Movies</string>
+</resources>
